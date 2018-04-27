@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 0.32rem;
+}
+html {
+  width: 100%;
+  background: #fff;
+}
