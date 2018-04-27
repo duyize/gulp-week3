@@ -23,6 +23,4 @@ gulp.task('webserver',function(){
     }));
 });
 
-gulp.task('default',['less','webserver','watch'],function(){
-
-});
+gulp.task('default',['less','webserver','watch'],function(){});
